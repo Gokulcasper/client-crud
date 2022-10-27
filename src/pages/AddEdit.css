@@ -1,0 +1,30 @@
+.formContainer{
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    background-color: rgb(20, 115, 126);
+    width: fit-content;
+    height: max-content;
+}
+
+.formItem{
+    padding: 10px 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.formClass{
+    border: none;
+    margin-left: 10px;
+    background-color: rgb(226, 226, 226);
+    padding: 10px 20px;
+}
+
+label {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 500;
+}
+

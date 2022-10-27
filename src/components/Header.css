@@ -1,0 +1,40 @@
+.header{
+    height: 60px;
+    background-color: #e7e7e7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #7f7f7f;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.logo{
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.header-right{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-right: 10px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+
+Link, p{
+    color: #757575;
+    font-size: 18px;
+    padding: 5px 10px;
+    
+}
+
+
+Link, p:hover{
+    background-color: #8e7d67;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+}
