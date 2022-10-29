@@ -43,7 +43,7 @@ if(response.status===200){
           <br/>
           <br/>
           <Link to="/">
-            <button className='btn btn-edit'>Go Back</button>
+            <button className='btn btn-edit'>GoBack</button>
           </Link>
         </div>
        </div>
